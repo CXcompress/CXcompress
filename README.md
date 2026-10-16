@@ -48,5 +48,18 @@ Dictionaries for CXcompress can be trained by creating a "\n" separated file of 
 2. 🚀 Add CUDA support for massively parallel operation with GPUs
 3. 🔨 Algorithmic development
 
-## License TL;DR
-This software is free with optional paid upgrades
+## License
+
+CXcompress is dual-licensed:
+
+- **Open source / free tier:** GNU AGPL-3.0. You may use, modify, and
+  distribute CXcompress freely, provided that any network service or
+  product that incorporates it also releases its source code under
+  AGPL-3.0.
+- **Commercial tier:** For use in proprietary or closed-source products,
+  or to avoid the AGPL's source-disclosure requirements, a paid
+  commercial license is available. See `LICENSE.md` or email
+  clymersam@gmail.com.
+
+The AGPL-3.0 license applies by default to everyone. The commercial
+license is required only for use cases the AGPL does not permit.
