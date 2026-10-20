@@ -39,7 +39,7 @@ The runtime of the compressor will be slower only the first time you run it; aft
 
 The compressor will exit without compressing if you run out of memory
 
-If you want to learn tricks on how to use CXcompress to achieve either better compression or faster speed, contact clymersam@gmail.com
+If you want to explore consulting opportunities for me integrate CXcompress into your data compression workflow, or if you want to learn tricks on how to use CXcompress to achieve either better compression or faster speed, contact clymersam@gmail.com
 
 Dictionaries for CXcompress can be trained by creating a "\n" separated file of common words
 
